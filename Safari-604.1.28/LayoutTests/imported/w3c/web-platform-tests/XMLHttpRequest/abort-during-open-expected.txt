@@ -1,0 +1,3 @@
+
+FAIL XMLHttpRequest: abort() during OPEN assert_equals: after abort() expected 1 but got 0
+

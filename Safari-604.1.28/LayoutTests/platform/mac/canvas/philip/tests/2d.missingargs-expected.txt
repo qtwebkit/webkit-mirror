@@ -1,0 +1,1 @@
+Failed assertion: expected exception of type SyntaxError, got: TypeError: Not enough arguments
