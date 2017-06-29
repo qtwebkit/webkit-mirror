@@ -1,3 +1,0 @@
-
-FAIL Initial peer connection should have list of zero senders, receivers and transceivers assert_own_property: expected property "getSenders" missing
-

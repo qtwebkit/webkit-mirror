@@ -1,3 +1,0 @@
-
-FAIL Properties of error events fired at requests when aborting a transaction assert_equals: Request's result should be undefined expected (undefined) undefined but got (object) null
-

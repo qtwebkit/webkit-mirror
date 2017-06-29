@@ -1,3 +1,0 @@
-
-FAIL Fragment Navigation: hashchange event assert_true: bubbles expected true got false
-

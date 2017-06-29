@@ -1,2 +1,0 @@
-PASS: successfully selected the word PressMe
-Done

@@ -1,4 +1,0 @@
-
-
-PASS Image element delays window's load event 
-

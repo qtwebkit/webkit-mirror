@@ -1,3 +1,0 @@
-
-FAIL IDBRequest and IDBTransaction error properties should be DOMExceptions assert_true: expected true got false
-

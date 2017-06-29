@@ -1,4 +1,0 @@
-
-PASS Explicit Primary Key 
-PASS Auto-Increment Primary Key 
-

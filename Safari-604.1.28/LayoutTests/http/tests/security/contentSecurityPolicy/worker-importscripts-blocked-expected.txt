@@ -1,5 +1,0 @@
-PASS result is "importScripts blocked: NetworkError (DOM Exception 19):  A network error occurred."
-PASS successfullyParsed is true
-
-TEST COMPLETE
-

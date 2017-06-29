@@ -1,3 +1,0 @@
-PASS: Selected: PressMe
-PASS: Cleared selection
-

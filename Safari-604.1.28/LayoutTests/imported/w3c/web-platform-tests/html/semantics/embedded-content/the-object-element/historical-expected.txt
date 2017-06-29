@@ -1,3 +1,0 @@
-
-PASS object legacycaller should not be supported 
-
