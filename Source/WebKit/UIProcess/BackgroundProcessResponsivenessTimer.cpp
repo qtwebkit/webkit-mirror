@@ -116,8 +116,6 @@ void BackgroundProcessResponsivenessTimer::setResponsive(bool isResponsive)
     if (m_isResponsive == isResponsive)
         return;
 
-    auto protectedClient = makeRef(client());
-
     client().willChangeIsResponsive();
     m_isResponsive = isResponsive;
     client().didChangeIsResponsive();
