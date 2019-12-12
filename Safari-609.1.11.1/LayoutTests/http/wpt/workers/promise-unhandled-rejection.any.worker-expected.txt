@@ -1,5 +1,0 @@
-
-Harness Error (FAIL), message = undefined
-
-PASS UnhandledRejection event occurs if a rejected promise is not handled. 
-

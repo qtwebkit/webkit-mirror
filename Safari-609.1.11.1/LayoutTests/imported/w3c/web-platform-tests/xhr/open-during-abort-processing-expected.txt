@@ -1,3 +1,0 @@
-
-FAIL XMLHttpRequest: open() during abort processing - abort() called from onloadstart assert_array_equals: lengths differ, expected 9 got 7
-

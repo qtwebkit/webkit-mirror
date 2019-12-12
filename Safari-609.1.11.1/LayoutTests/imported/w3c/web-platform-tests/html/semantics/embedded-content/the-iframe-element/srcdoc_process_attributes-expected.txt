@@ -1,6 +1,0 @@
-
-
-FAIL Adding `srcdoc` attribute triggers attributes processing assert_false: expected false got true
-FAIL Changing `srcdoc` (via property) triggers attributes processing assert_false: expected false got true
-FAIL Removing `srcdoc` attribute triggers attributes processing assert_false: expected false got true
-

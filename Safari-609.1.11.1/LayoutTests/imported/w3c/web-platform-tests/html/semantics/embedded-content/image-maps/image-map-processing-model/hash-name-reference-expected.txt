@@ -1,3 +1,0 @@
-
-PASS parsing a hash-name reference for img and object 
-  

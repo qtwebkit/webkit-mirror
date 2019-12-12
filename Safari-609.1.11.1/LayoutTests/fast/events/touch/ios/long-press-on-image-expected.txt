@@ -1,1 +1,0 @@
-PASS: context menu triggered on image

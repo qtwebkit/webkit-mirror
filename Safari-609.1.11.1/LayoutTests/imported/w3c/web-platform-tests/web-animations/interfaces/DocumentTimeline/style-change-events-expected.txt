@@ -1,4 +1,0 @@
-
-FAIL DocumentTimeline.currentTime does NOT trigger a style change event assert_false: A transition should NOT have been triggered expected false got true
-FAIL DocumentTimeline constructor does NOT trigger a style change event assert_false: A transition should NOT have been triggered expected false got true
-

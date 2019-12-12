@@ -1,3 +1,0 @@
-
-FAIL Request with CORS-safelisted headers  A network error occurred.
-
